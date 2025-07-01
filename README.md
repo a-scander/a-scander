@@ -14,5 +14,5 @@ Voici un tableau récapitulatif de mes projets avec leur contexte, les technolog
 
 ## 📫 Me contacter
 
-[![Email](https://img.shields.io/badge/Email-ton.email@example.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visiter_mon_profil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ton-profil)
+[![Email](https://img.shields.io/badge/Email-ton.email@example.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:scander.ali@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visiter_mon_profil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/scander-alioui/)
