@@ -15,7 +15,5 @@ Voici un tableau récapitulatif de mes projets avec leur contexte, les technolog
 ## 📫 Me contacter
 
 [![Email](https://img.shields.io/badge/scander.ali@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:scander.ali@gmail.com)
-
-[![Email](https://img.shields.io/badge/scander.ali%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:scander.ali@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Scander%20Alioui-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/scander-alioui/)
 
